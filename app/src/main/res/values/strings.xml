@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaubapTest</string>
+    <string name="baubap_test_login_hint_email">Email</string>
+    <string name="baubap_test_login_hint_password">Password</string>
+    <string name="baubap_test_login_btn">Login</string>
+    <string name="baubap_test_login_alert_title">¡Alerta!</string>
+    <string name="baubap_test_login_alert_content">Hiciste exitosamente el login</string>
+</resources>
